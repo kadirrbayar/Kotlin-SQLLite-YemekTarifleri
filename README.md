@@ -10,7 +10,7 @@ Bitmap ile görsel boyutu küçültülür ve SQLLite veritabanına kaydedilir.
 
 ### Görsel
 
-<p align="center">
+<p align="left">
   <img src="https://telegra.ph/file/3498766575a85aea886bb.png">
 </p>
 
